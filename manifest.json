@@ -1,0 +1,246 @@
+{
+    "version": "1.20.1",
+    "serverName": "KineticCraft Main",
+    "mods": [
+        {
+            "name": "alexsmobs-1.22.9.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/alexsmobs-1.22.9.jar",
+            "size": 26350793
+        },
+        {
+            "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "size": 47428
+        },
+        {
+            "name": "appliedenergistics2-forge-15.4.10.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/appliedenergistics2-forge-15.4.10.jar",
+            "size": 8495956
+        },
+        {
+            "name": "architectury-9.2.14-forge.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/architectury-9.2.14-forge.jar",
+            "size": 580602
+        },
+        {
+            "name": "ars_elemental-1.20.1-0.6.7.9.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/ars_elemental-1.20.1-0.6.7.9.jar",
+            "size": 1584201
+        },
+        {
+            "name": "ars_instrumentum-1.20.1-4.1.0.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/ars_instrumentum-1.20.1-4.1.0.jar",
+            "size": 145184
+        },
+        {
+            "name": "ars_nouveau-1.20.1-4.12.7-all.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/ars_nouveau-1.20.1-4.12.7-all.jar",
+            "size": 12430237
+        },
+        {
+            "name": "balm-forge-1.20.1-7.3.38-all.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/balm-forge-1.20.1-7.3.38-all.jar",
+            "size": 591397
+        },
+        {
+            "name": "blockui-1.20.1-1.0.194-snapshot.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/blockui-1.20.1-1.0.194-snapshot.jar",
+            "size": 391051
+        },
+        {
+            "name": "blue_skies-1.20.1-1.3.31.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/blue_skies-1.20.1-1.3.31.jar",
+            "size": 83564111
+        },
+        {
+            "name": "Botania-1.20.1-451-FORGE.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/Botania-1.20.1-451-FORGE.jar",
+            "size": 12201393
+        },
+        {
+            "name": "canary-mc1.20.1-0.3.3.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/canary-mc1.20.1-0.3.3.jar",
+            "size": 594191
+        },
+        {
+            "name": "citadel-2.6.3-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/citadel-2.6.3-1.20.1.jar",
+            "size": 3185275
+        },
+        {
+            "name": "create-1.20.1-6.0.8.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/create-1.20.1-6.0.8.jar",
+            "size": 19170905
+        },
+        {
+            "name": "create-new-age-1.1.7f+forge-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/create-new-age-1.1.7f+forge-mc1.20.1.jar",
+            "size": 1145493
+        },
+        {
+            "name": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+            "size": 488060
+        },
+        {
+            "name": "curios-forge-5.14.1+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/curios-forge-5.14.1+1.20.1.jar",
+            "size": 398066
+        },
+        {
+            "name": "domum_ornamentum-1.20.1-1.0.300-snapshot-universal.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/domum_ornamentum-1.20.1-1.0.300-snapshot-universal.jar",
+            "size": 1172058
+        },
+        {
+            "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "size": 680255
+        },
+        {
+            "name": "FarmersDelight-1.20.1-1.2.11.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/FarmersDelight-1.20.1-1.2.11.jar",
+            "size": 2963127
+        },
+        {
+            "name": "ferritecore-6.0.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/ferritecore-6.0.1-forge.jar",
+            "size": 123034
+        },
+        {
+            "name": "forbidden_arcanus-1.20.1-2.2.6.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/forbidden_arcanus-1.20.1-2.2.6.jar",
+            "size": 2783387
+        },
+        {
+            "name": "guideme-20.1.14.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/guideme-20.1.14.jar",
+            "size": 9413204
+        },
+        {
+            "name": "ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+            "size": 12129396
+        },
+        {
+            "name": "jei-1.20.1-forge-15.20.0.129.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/jei-1.20.1-forge-15.20.0.129.jar",
+            "size": 1409642
+        },
+        {
+            "name": "journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/journeymap-1.20.1-5.10.3-forge.jar",
+            "size": 7160405
+        },
+        {
+            "name": "JustEnoughResources-1.20.1-1.4.0.247.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
+            "size": 276231
+        },
+        {
+            "name": "lightmanscurrency-1.20.1-2.3.0.4e.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/lightmanscurrency-1.20.1-2.3.0.4e.jar",
+            "size": 10442514
+        },
+        {
+            "name": "lionfishapi-2.4-Fix.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/lionfishapi-2.4-Fix.jar",
+            "size": 162767
+        },
+        {
+            "name": "lootr-forge-1.20-0.7.35.94.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/lootr-forge-1.20-0.7.35.94.jar",
+            "size": 463485
+        },
+        {
+            "name": "L_Enders_Cataclysm-3.25.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/L_Enders_Cataclysm-3.25.jar",
+            "size": 73916761
+        },
+        {
+            "name": "Mekanism-1.20.1-10.4.16.80.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/Mekanism-1.20.1-10.4.16.80.jar",
+            "size": 12558456
+        },
+        {
+            "name": "MekanismGenerators-1.21.1-10.7.18.84.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/MekanismGenerators-1.21.1-10.7.18.84.jar",
+            "size": 1104556
+        },
+        {
+            "name": "minecolonies-1.20.1-1.1.1205-snapshot.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/minecolonies-1.20.1-1.1.1205-snapshot.jar",
+            "size": 77692501
+        },
+        {
+            "name": "minecraft-comes-alive-7.6.15+1.20.1-universal.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/minecraft-comes-alive-7.6.15+1.20.1-universal.jar",
+            "size": 13031755
+        },
+        {
+            "name": "modernfix-forge-5.26.2+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/modernfix-forge-5.26.2+mc1.20.1.jar",
+            "size": 826829
+        },
+        {
+            "name": "Patchouli-1.20.1-85-FORGE.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/Patchouli-1.20.1-85-FORGE.jar",
+            "size": 642732
+        },
+        {
+            "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "size": 181437
+        },
+        {
+            "name": "player-animation-lib-forge-1.0.2-rc1-1.20.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/player-animation-lib-forge-1.0.2-rc1-1.20.jar",
+            "size": 181437
+        },
+        {
+            "name": "sophisticatedbackpacks-1.20.1-3.24.29.1603.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/sophisticatedbackpacks-1.20.1-3.24.29.1603.jar",
+            "size": 1013355
+        },
+        {
+            "name": "sophisticatedcore-1.20.1-1.3.10.1552.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/sophisticatedcore-1.20.1-1.3.10.1552.jar",
+            "size": 1423445
+        },
+        {
+            "name": "starlight-1.1.2+forge.1cda73c.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/starlight-1.1.2+forge.1cda73c.jar",
+            "size": 110583
+        },
+        {
+            "name": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+            "size": 16819720
+        },
+        {
+            "name": "structure_gel-1.20.1-2.16.2.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/structure_gel-1.20.1-2.16.2.jar",
+            "size": 966028
+        },
+        {
+            "name": "structurize-1.20.1-1.0.809-snapshot.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/structurize-1.20.1-1.0.809-snapshot.jar",
+            "size": 1124544
+        },
+        {
+            "name": "valhelsia_core-forge-1.20.1-1.1.2.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/valhelsia_core-forge-1.20.1-1.1.2.jar",
+            "size": 203313
+        },
+        {
+            "name": "voicechat-forge-1.20.1-2.6.14.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/voicechat-forge-1.20.1-2.6.14.jar",
+            "size": 4895899
+        },
+        {
+            "name": "waystones-forge-1.20.1-14.1.20.jar",
+            "url": "https://raw.githubusercontent.com/sanK-63/Kinetic-Storage/main/mods/waystones-forge-1.20.1-14.1.20.jar",
+            "size": 533738
+        }
+    ]
+}
